@@ -1,4 +1,5 @@
 import { useState } from 'react';
+import { asset } from '../lib/asset';
 import Header from '../components/Header';
 import Footer from '../components/Footer';
 import HeroSlider from '../components/HeroSlider';
@@ -58,7 +59,7 @@ export default function HomePage() {
                 openLead();
               }}
             >
-              <div className="ofc4__bg" style={{ backgroundImage: "url('/assets/img/promo-450.jpg')" }} />
+              <div className="ofc4__bg" style={{ backgroundImage: `url('${asset('assets/img/promo-450.jpg')}')` }} />
               <div className="ofc4__head">
                 <div className="ofc4__price">
                   <span className="ofc4__price-gold">450 ₽</span> <b>за м²</b>
@@ -97,9 +98,9 @@ export default function HomePage() {
               </div>
               <div className="ofc4__top">
                 <div className="ofc__avatars">
-                  <img src="/assets/img/jk-geroi-1.webp" alt="" loading="lazy" />
-                  <img src="/assets/img/jk-bereg-volgi.jpg" alt="" loading="lazy" />
-                  <img src="/assets/img/jk-semeyniy.jpg" alt="" loading="lazy" />
+                  <img src={asset('assets/img/jk-geroi-1.webp')} alt="" loading="lazy" />
+                  <img src={asset('assets/img/jk-bereg-volgi.jpg')} alt="" loading="lazy" />
+                  <img src={asset('assets/img/jk-semeyniy.jpg')} alt="" loading="lazy" />
                   <span className="ofc__avatars-more">+5</span>
                 </div>
               </div>
@@ -144,7 +145,7 @@ export default function HomePage() {
                 <div className="ofc__value">от 35 000 ₽ за м²</div>
               </div>
               <div className="ofc4__keys">
-                <img src="/assets/img/promo-keys.png" alt="" loading="lazy" />
+                <img src={asset('assets/img/promo-keys.png')} alt="" loading="lazy" />
               </div>
               <span className="ofc__arrow">{ARROW}</span>
             </a>
@@ -184,11 +185,11 @@ export default function HomePage() {
 
           <div className="perksgrid">
             {[
-              { cls: 'prk prk--hero prk--photo', bg: '/assets/img/perk-traffic.jpg', title: 'Локации с большим<br>трафиком', text: 'Постоянный поток жителей района<br>и оживлённые прогулочные зоны' },
-              { cls: 'prk prk--hero2 prk--photo', bg: '/assets/img/perk-schools.jpg', title: 'Муниципальные школы<br>и детские сады', text: 'Ежедневный гарантированный поток родителей рядом с вашей точкой' },
-              { cls: 'prk prk--soft prk--photo', bg: '/assets/img/perk-fire.jpg', title: 'Система пожарной<br>сигнализации', text: 'Распознаёт возгорание на ранней стадии по дыму, теплу и пламени' },
-              { cls: 'prk prk--photo', bg: '/assets/img/perk-security.jpg', title: 'Охраняемая<br>территория', text: 'Круглосуточная охрана территории<br>с системой видеонаблюдения' },
-              { cls: 'prk prk--accent prk--photo', bg: '/assets/img/perk-layouts.jpg', title: 'Разнообразие<br>планировок', text: 'Подберём или разработаем планировку под любые задачи вашего бизнеса' },
+              { cls: 'prk prk--hero prk--photo', bg: asset('assets/img/perk-traffic.jpg'), title: 'Локации с большим<br>трафиком', text: 'Постоянный поток жителей района<br>и оживлённые прогулочные зоны' },
+              { cls: 'prk prk--hero2 prk--photo', bg: asset('assets/img/perk-schools.jpg'), title: 'Муниципальные школы<br>и детские сады', text: 'Ежедневный гарантированный поток родителей рядом с вашей точкой' },
+              { cls: 'prk prk--soft prk--photo', bg: asset('assets/img/perk-fire.jpg'), title: 'Система пожарной<br>сигнализации', text: 'Распознаёт возгорание на ранней стадии по дыму, теплу и пламени' },
+              { cls: 'prk prk--photo', bg: asset('assets/img/perk-security.jpg'), title: 'Охраняемая<br>территория', text: 'Круглосуточная охрана территории<br>с системой видеонаблюдения' },
+              { cls: 'prk prk--accent prk--photo', bg: asset('assets/img/perk-layouts.jpg'), title: 'Разнообразие<br>планировок', text: 'Подберём или разработаем планировку под любые задачи вашего бизнеса' },
             ].map((p) => (
               <div
                 key={p.title}
@@ -223,7 +224,7 @@ export default function HomePage() {
 
           <div className="trustbento2">
             <div className="tp">
-              <div className="tp__bg" style={{ backgroundImage: "url('/assets/img/promo-market-night2.jpg')" }} />
+              <div className="tp__bg" style={{ backgroundImage: `url('${asset('assets/img/promo-market-night2.jpg')}')` }} />
               <span className="tp__badge">
                 <svg viewBox="0 0 16 16" fill="none">
                   <path d="M8 1.5 14 4v4.3c0 3.8-2.6 6.9-6 7.7-3.4-.8-6-3.9-6-7.7V4l6-2.5Z" stroke="currentColor" strokeWidth="1.4" strokeLinejoin="round" />

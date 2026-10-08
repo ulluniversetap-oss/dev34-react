@@ -1,4 +1,5 @@
 import { createContext, useContext, useState, type ReactNode, type FormEvent } from 'react';
+import { asset } from '../lib/asset';
 
 interface LeadModalCtx {
   open: () => void;
@@ -80,8 +81,8 @@ function LeadModal({ isOpen, onClose }: { isOpen: boolean; onClose: () => void }
 
               <div className="lead__manager">
                 <div className="lead__avatars">
-                  <img className="lead__avatar-photo" src="/assets/img/manager-1.jpg" alt="" loading="lazy" />
-                  <img className="lead__avatar-photo" src="/assets/img/manager-2.jpg" alt="" loading="lazy" />
+                  <img className="lead__avatar-photo" src={asset('assets/img/manager-1.jpg')} alt="" loading="lazy" />
+                  <img className="lead__avatar-photo" src={asset('assets/img/manager-2.jpg')} alt="" loading="lazy" />
                   <span className="lead__online" />
                 </div>
                 <div>

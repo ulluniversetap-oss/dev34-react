@@ -1,4 +1,5 @@
 import { useEffect, useRef, useState } from 'react';
+import { asset } from '../lib/asset';
 
 const ICO = {
   rub: (
@@ -46,7 +47,7 @@ interface Slide {
 
 const SLIDES: Slide[] = [
   {
-    bg: '/assets/img/hero-slide-1.jpg',
+    bg: asset('assets/img/hero-slide-1.jpg'),
     tags: [
       [ICO.rub, 'от 3,1 млн ₽'],
       [ICO.pin, '8 новостроек Волгограда'],
@@ -58,7 +59,7 @@ const SLIDES: Slide[] = [
   },
   {
     big: true,
-    bg: '/assets/img/hero-slide-2.jpg',
+    bg: asset('assets/img/hero-slide-2.jpg'),
     fx: 'brightness(.52) saturate(1.08)',
     tags: [
       [ICO.pct, 'Условие месяца'],
@@ -71,7 +72,7 @@ const SLIDES: Slide[] = [
   },
   {
     big: true,
-    bg: '/assets/img/hero-slide-3.jpg',
+    bg: asset('assets/img/hero-slide-3.jpg'),
     tags: [
       [ICO.key, 'Готово к заезду'],
       [ICO.pin, '8 комплексов'],
@@ -83,7 +84,7 @@ const SLIDES: Slide[] = [
   },
   {
     big: true,
-    bg: '/assets/img/hero-slide-4.jpg',
+    bg: asset('assets/img/hero-slide-4.jpg'),
     tags: [
       [ICO.clk, 'до 15 августа'],
       [ICO.rub, 'бесплатно'],
