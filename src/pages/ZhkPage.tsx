@@ -183,7 +183,7 @@ export default function ZhkPage() {
               <p>Пешеходный поток, плотность жителей и технические параметры помещений</p>
             </div>
           </div>
-          <div className="trustbento2">
+          <div className="trustbento2 trustbento2--traffic">
             <div className="tp">
               <div className="tp__bg" style={{ backgroundImage: `url('${zhk.heroPhoto}')` }} />
               <span className="tp__badge">
