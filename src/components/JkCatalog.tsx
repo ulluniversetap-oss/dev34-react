@@ -122,7 +122,7 @@ export default function JkCatalog({ filter }: { filter: LotFilterState }) {
           </div>
         </div>
 
-        <div className="pills">
+        <div className="pills" id="fDistrict">
           <button className={`pill${district === 'all' ? ' on' : ''}`} onClick={() => setDistrict('all')}>
             Все районы
           </button>
