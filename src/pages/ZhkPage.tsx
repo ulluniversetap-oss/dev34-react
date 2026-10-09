@@ -185,7 +185,7 @@ export default function ZhkPage() {
           </div>
           <div className="trustbento2 trustbento2--traffic">
             <div className="tp">
-              <div className="tp__bg" style={{ backgroundImage: `url('${zhk.heroPhoto}')` }} />
+              <div className="tp__bg" style={{ backgroundImage: `url('${zhk.catalogPhoto}')` }} />
               <span className="tp__badge">
                 <svg viewBox="0 0 24 24" fill="none">
                   <circle cx="12" cy="5" r="2.2" stroke="currentColor" strokeWidth="1.6" />
@@ -280,7 +280,7 @@ export default function ZhkPage() {
               {similar.map((z) => (
                 <Link key={z.slug} to={`/zhk/${z.slug}`} className="jk">
                   <div className="jk__ph">
-                    <img src={z.heroPhoto} alt={`ЖК «${z.name}»`} loading="lazy" />
+                    <img src={z.catalogPhoto} alt={`ЖК «${z.name}»`} loading="lazy" />
                     <span className={`chip ${z.status === 'Сдан' ? 'chip--dark' : 'chip--light'} jk__status`}>{z.status}</span>
                   </div>
                   <div className="jk__b">

@@ -52,7 +52,7 @@ export interface ZhkComplex {
   deliveryQuarter?: string; // для строящихся
   ceilingHeight: string;
   floors: number;
-  heroPhoto: string;
+  catalogPhoto: string; // миниатюра для карточки в каталоге (не из галереи ЖК)
   galleryPhotos: string[];
   lat: number;
   lng: number;
@@ -84,7 +84,7 @@ export const ZHK: ZhkComplex[] = [
     rentFrom: 950,
     ceilingHeight: '3,6 м',
     floors: 3,
-    heroPhoto: asset('assets/img/geroi-gal-3.jpg'),
+    catalogPhoto: asset('assets/img/jk-geroi-1.webp'),
     galleryPhotos: [
       asset('assets/img/geroi-gal-3.jpg'),
       asset('assets/img/geroi-gal-1.jpg'),
@@ -140,7 +140,7 @@ export const ZHK: ZhkComplex[] = [
     deliveryQuarter: 'IV кв. 2027',
     ceilingHeight: '3,6 м',
     floors: 3,
-    heroPhoto: asset('assets/img/geroi2-gal-3.jpg'),
+    catalogPhoto: asset('assets/img/jk-geroi-2.webp'),
     galleryPhotos: [
       asset('assets/img/geroi2-gal-3.jpg'),
       asset('assets/img/geroi2-gal-1.jpg'),
@@ -194,7 +194,7 @@ export const ZHK: ZhkComplex[] = [
     priceFrom: 6.4,
     ceilingHeight: '3,6 м',
     floors: 3,
-    heroPhoto: asset('assets/img/bv-gal-2.jpg'),
+    catalogPhoto: asset('assets/img/jk-bereg-volgi.jpg'),
     galleryPhotos: [
       asset('assets/img/bv-gal-2.jpg'),
       asset('assets/img/bv-gal-1.jpg'),
@@ -249,7 +249,7 @@ export const ZHK: ZhkComplex[] = [
     rentFrom: 1250,
     ceilingHeight: '3,6 м',
     floors: 3,
-    heroPhoto: asset('assets/img/matrosova-gal-1.jpg'),
+    catalogPhoto: asset('assets/img/jk-matrosova.jpg'),
     galleryPhotos: [
       asset('assets/img/matrosova-gal-1.jpg'),
       asset('assets/img/matrosova-gal-2.jpg'),
@@ -304,7 +304,7 @@ export const ZHK: ZhkComplex[] = [
     deliveryQuarter: 'II кв. 2027',
     ceilingHeight: '3,6 м',
     floors: 3,
-    heroPhoto: asset('assets/img/noviy-gal-2.jpg'),
+    catalogPhoto: asset('assets/img/jk-noviy.jpg'),
     galleryPhotos: [
       asset('assets/img/noviy-gal-2.jpg'),
       asset('assets/img/noviy-gal-1.jpg'),
@@ -359,7 +359,7 @@ export const ZHK: ZhkComplex[] = [
     rentFrom: 880,
     ceilingHeight: '3,6 м',
     floors: 3,
-    heroPhoto: asset('assets/img/semeyniy-gal-1.jpg'),
+    catalogPhoto: asset('assets/img/jk-semeyniy.jpg'),
     galleryPhotos: [
       asset('assets/img/semeyniy-gal-1.jpg'),
       asset('assets/img/semeyniy-gal-2.jpg'),
@@ -414,7 +414,7 @@ export const ZHK: ZhkComplex[] = [
     deliveryQuarter: 'III кв. 2027',
     ceilingHeight: '3,6 м',
     floors: 3,
-    heroPhoto: asset('assets/img/severniy-gal-1.jpg'),
+    catalogPhoto: asset('assets/img/jk-severniy.jpg'),
     galleryPhotos: [
       asset('assets/img/severniy-gal-1.jpg'),
       asset('assets/img/severniy-gal-2.jpg'),
@@ -469,7 +469,7 @@ export const ZHK: ZhkComplex[] = [
     rentFrom: 790,
     ceilingHeight: '3,6 м',
     floors: 3,
-    heroPhoto: asset('assets/img/gvard-gal-1.jpg'),
+    catalogPhoto: asset('assets/img/jk-gvardeyskaya.jpg'),
     galleryPhotos: [
       asset('assets/img/gvard-gal-1.jpg'),
       asset('assets/img/gvard-gal-2.jpg'),

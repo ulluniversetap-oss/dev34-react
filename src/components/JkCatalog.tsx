@@ -48,7 +48,7 @@ function JkCard({ z, mode }: { z: (typeof ZHK)[number]; mode: 'buy' | 'rent' }) 
   return (
     <Link to={`/zhk/${z.slug}`} className="jk">
       <div className="jk__ph">
-        <img src={z.heroPhoto} alt={`ЖК «${z.name}»${z.phase ? ` ${z.phase}` : ''}`} loading="lazy" />
+        <img src={z.catalogPhoto} alt={`ЖК «${z.name}»${z.phase ? ` ${z.phase}` : ''}`} loading="lazy" />
         <span className={`chip ${z.status === 'Сдан' ? 'chip--dark' : 'chip--light'} jk__status`}>{z.status}</span>
         <button
           type="button"
