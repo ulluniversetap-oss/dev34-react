@@ -2,7 +2,7 @@ import { Link } from 'react-router-dom';
 
 export default function Footer() {
   return (
-    <footer className="ftr">
+    <footer className="ftr" id="contacts">
       <div className="wrap">
         <div className="ftr__top">
           <div className="ftr__brand">

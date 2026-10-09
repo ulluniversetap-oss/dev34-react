@@ -334,7 +334,11 @@ export default function HomePage() {
             <div className="dealc">
               <span className="dealc__n">02</span>
               <h4>Просмотр</h4>
-              <p>Выезд на объект с менеджером. Проверяем мощность, точку ввода, высоту потолка, зону разгрузки.</p>
+              <p>
+                Выезд на объект с менеджером. Проверяем мощность, точку ввода,
+                <br />
+                высоту потолка, зону разгрузки.
+              </p>
             </div>
             <div className="dealc">
               <span className="dealc__n">03</span>
@@ -370,18 +374,6 @@ export default function HomePage() {
             </div>
           </div>
           <FaqAccordion />
-        </div>
-      </section>
-
-      <section className="sect" id="contacts">
-        <div className="wrap" style={{ textAlign: 'center', padding: '40px 0' }}>
-          <h2>Остались вопросы?</h2>
-          <p style={{ color: 'var(--ink-3)', margin: '10px 0 24px' }}>
-            Оставьте заявку — менеджер перезвонит и подберёт помещение под задачу
-          </p>
-          <button className="btn btn--gold" onClick={openLead}>
-            Оставить заявку
-          </button>
         </div>
       </section>
 
