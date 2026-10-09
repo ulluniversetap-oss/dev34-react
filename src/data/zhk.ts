@@ -84,7 +84,7 @@ export const ZHK: ZhkComplex[] = [
     rentFrom: 950,
     ceilingHeight: '3,6 м',
     floors: 3,
-    catalogPhoto: asset('assets/img/jk-geroi-1.webp'),
+    catalogPhoto: asset('assets/img/jk-geroi-1.jpg'),
     galleryPhotos: [
       asset('assets/img/geroi-gal-3.jpg'),
       asset('assets/img/geroi-gal-1.jpg'),
@@ -140,7 +140,7 @@ export const ZHK: ZhkComplex[] = [
     deliveryQuarter: 'IV кв. 2027',
     ceilingHeight: '3,6 м',
     floors: 3,
-    catalogPhoto: asset('assets/img/jk-geroi-2.webp'),
+    catalogPhoto: asset('assets/img/jk-geroi-2.jpg'),
     galleryPhotos: [
       asset('assets/img/geroi2-gal-3.jpg'),
       asset('assets/img/geroi2-gal-1.jpg'),
