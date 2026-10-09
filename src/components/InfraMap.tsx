@@ -1,11 +1,6 @@
 import { useEffect, useRef, useState } from 'react';
 import { POI_META, type PoiCategory, type ZhkComplex } from '../data/zhk';
-
-declare global {
-  interface Window {
-    ymaps3?: any;
-  }
-}
+import { waitForYmaps3 } from '../lib/waitForYmaps3';
 
 function plural(n: number, forms: [string, string, string]) {
   const n10 = n % 10;
@@ -82,10 +77,11 @@ export default function InfraMap({
     let cancelled = false;
 
     (async () => {
-      if (!window.ymaps3 || !mapHostRef.current) return;
-      await window.ymaps3.ready;
+      const ymaps3 = await waitForYmaps3();
+      if (!ymaps3 || !mapHostRef.current || cancelled) return;
+      await ymaps3.ready;
       if (cancelled) return;
-      const { YMap, YMapDefaultSchemeLayer, YMapDefaultFeaturesLayer, YMapMarker } = window.ymaps3;
+      const { YMap, YMapDefaultSchemeLayer, YMapDefaultFeaturesLayer, YMapMarker } = ymaps3;
 
       const map = new YMap(mapHostRef.current, {
         location: { center: [zhk.lng, zhk.lat], zoom: 15 },
