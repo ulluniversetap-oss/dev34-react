@@ -1,7 +1,7 @@
 // Разовый диагностический скрипт: печатает ID/названия/адреса ЖК из MacroAPI,
 // чтобы сопоставить их со slug'ами в src/data/zhk.ts. Не предназначен для
 // постоянного использования — только чтобы один раз увидеть реальные ID.
-const API = 'https://api.macroserver.ru';
+const API = 'https://api.macroserver.ru/v2';
 const token = process.env.MACRO_API_KEY;
 if (!token) throw new Error('MACRO_API_KEY is not set');
 
