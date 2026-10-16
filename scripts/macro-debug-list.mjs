@@ -8,7 +8,7 @@ if (!token) throw new Error('MACRO_API_KEY is not set');
 async function call(method, body = {}) {
   const res = await fetch(`${API}${method}`, {
     method: 'POST',
-    headers: { Authorization: `Bearer ${token}`, 'Content-Type': 'application/json' },
+    headers: { Authorization: `bearer ${token}`, 'Content-Type': 'application/json' },
     body: JSON.stringify(body),
   });
   const text = await res.text();
