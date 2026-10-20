@@ -1,4 +1,5 @@
 import { useEffect, useState } from 'react';
+import { createPortal } from 'react-dom';
 
 // Миниатюра планировки на карточке отрисовывается на 15% мельче (чтобы не
 // доминировать над карточкой), а по клику открывается в полный размер поверх
@@ -39,7 +40,7 @@ export default function PlanImageZoom({ src, alt }: { src: string; alt: string }
           }}
         />
       </button>
-      {open && (
+      {open && createPortal(
         <div
           onClick={() => setOpen(false)}
           style={{
@@ -90,7 +91,8 @@ export default function PlanImageZoom({ src, alt }: { src: string; alt: string }
               cursor: 'default',
             }}
           />
-        </div>
+        </div>,
+        document.body,
       )}
     </>
   );
