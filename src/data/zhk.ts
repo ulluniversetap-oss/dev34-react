@@ -1,4 +1,5 @@
 import { asset } from '../lib/asset';
+import macroPlans from './macro-plans.generated.json';
 
 // Единая модель данных по жилым комплексам.
 // Раньше эти значения были продублированы вручную в 8 html-файлах —
@@ -69,7 +70,7 @@ export interface ZhkComplex {
   statParkingGuest: string;
 }
 
-export const ZHK: ZhkComplex[] = [
+const ZHK_STATIC: ZhkComplex[] = [
   {
     slug: 'geroi-pokoleniy-1',
     name: 'Герои Поколений',
@@ -512,6 +513,26 @@ export const ZHK: ZhkComplex[] = [
     statParkingGuest: 'парковочных мест, из них 7 гостевых',
   },
 ];
+
+// Лоты коммерции (площадь/цена/статус) и счётчики свободных помещений
+// приходят из MacroCRM (см. scripts/fetch-macro-plans.mjs) и подмешиваются
+// поверх статических карточек; остальной контент (тексты, POI, фото)
+// остаётся ручным. Если выгрузка для ЖК ещё не делалась — используются
+// исходные статические значения, сайт не ломается.
+type MacroPlans = Record<string, { freeUnits: number; areaRange: [number, number]; priceFrom: number; plans: PlanCard[] }>;
+const macroPlansBySlug = macroPlans as unknown as MacroPlans;
+
+export const ZHK: ZhkComplex[] = ZHK_STATIC.map((zhk) => {
+  const live = macroPlansBySlug[zhk.slug];
+  if (!live || live.plans.length === 0) return zhk;
+  return {
+    ...zhk,
+    freeUnits: live.freeUnits,
+    areaRange: live.areaRange,
+    priceFrom: live.priceFrom || zhk.priceFrom,
+    plans: live.plans,
+  };
+});
 
 export const getZhkBySlug = (slug: string) => ZHK.find((z) => z.slug === slug);
 
