@@ -1,0 +1,26 @@
+name: Macro debug houses (one-off)
+on:
+  push:
+    paths:
+      - '.github/workflows/macro-debug-houses.yml'
+      - 'scripts/macro-debug-houses.mjs'
+
+permissions:
+  contents: write
+
+jobs:
+  debug:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: 20 }
+      - run: node scripts/macro-debug-houses.mjs
+        env:
+          MACRO_API_KEY: ${{ secrets.MACRO_API_KEY }}
+      - run: |
+          git config user.name "debug-bot"
+          git config user.email "debug-bot@users.noreply.github.com"
+          git add macro-houses-debug.json
+          git commit -m "Debug: houses data dump [skip ci]" || echo "nothing to commit"
+          git push
