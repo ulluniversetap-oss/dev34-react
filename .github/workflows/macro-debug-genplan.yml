@@ -5,6 +5,9 @@ on:
     paths:
       - '.github/workflows/macro-debug-genplan.yml'
       - 'scripts/macro-debug-genplan.mjs'
+permissions:
+  contents: write
+
 jobs:
   debug:
     runs-on: ubuntu-latest
