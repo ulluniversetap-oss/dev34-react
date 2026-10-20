@@ -1162,7 +1162,7 @@ ul{margin:0;padding:0;list-style:none}
 .planc__plabel{font-size:10.5px;font-weight:600;letter-spacing:.14em;text-transform:uppercase;
   color:var(--ink-3);position:relative}
 
-.planc__b{padding:18px 20px 20px;flex:1;display:flex;flex-direction:column}
+.planc__b{padding:18px 20px 20px;flex:1;display:flex;flex-direction:column;border-top:1px solid var(--line)}
 .planc__meta{display:flex;align-items:baseline;justify-content:space-between;gap:10px}
 .planc__area{font-size:20px;font-weight:700;letter-spacing:-.026em;color:var(--ink)}
 .planc__area span{font-weight:500;color:var(--ink-3);font-size:13px}
