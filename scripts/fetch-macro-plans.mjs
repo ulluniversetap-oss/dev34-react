@@ -77,8 +77,12 @@ for (const [slug, complexId] of Object.entries(COMPLEX_MAP)) {
     .map((item) => ({
       area: fmtArea(item.areaTotal),
       price: hasRealPrice(item) ? fmtPriceMln(item.price / 100) : 'По запросу',
+      priceM2: hasRealPrice(item) && item.priceM2 ? Math.round(item.priceM2 / 100) : undefined,
       status: STATUS_LABEL[item.status],
       tags: buildTags(item),
+      number: item.number || undefined,
+      floor: item.floor ?? undefined,
+      entrance: item.entrance ?? undefined,
       // Ссылка на картинку планировки из MacroCRM — временная (обычно на
       // несколько дней), поэтому она протухнет к следующей пересборке и
       // перезапишется свежей, а не станет мёртвой на сайте.

@@ -34,8 +34,12 @@ export const POI_META: { cat: PoiCategory; color: string; defaultOn: boolean }[]
 export interface PlanCard {
   area: string;
   price: string;
+  priceM2?: number; // цена за м² в рублях — есть не у всех лотов
   status: 'Свободно' | 'Бронь';
   tags: string[];
+  number?: string; // номер помещения из MacroCRM
+  floor?: number;
+  entrance?: number;
   planImage?: string; // картинка планировки из MacroCRM — есть не у всех лотов
 }
 

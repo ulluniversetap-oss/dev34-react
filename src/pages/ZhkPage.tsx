@@ -142,7 +142,7 @@ export default function ZhkPage() {
                 <div className="planc__ph">
                   <span className={`chip ${plan.status === 'Бронь' ? 'chip--dark' : 'chip--line'} planc__status`}>{plan.status}</span>
                   {plan.planImage ? (
-                    <PlanImageZoom src={plan.planImage} alt="План помещения" />
+                    <PlanImageZoom plan={plan} zhkName={zhk.name} zhkAddress={zhk.address} onBook={openLead} />
                   ) : (
                     <>
                       <svg className="planc__icon" viewBox="0 0 40 40" fill="none">
