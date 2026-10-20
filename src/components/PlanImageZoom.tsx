@@ -87,18 +87,27 @@ export default function PlanImageZoom({ plan, zhkName, zhkAddress, onBook }: Pro
                   )}
                 </div>
 
-                {(plan.floor || plan.entrance) && (
+                {(plan.floor || plan.entrance || plan.deliveryLabel) && (
                   <div className="planm__specs">
                     {plan.floor && (
                       <div className="spec">
                         <span className="spec__l">Этаж</span>
-                        <span className="spec__v">{plan.floor}</span>
+                        <span className="spec__v">
+                          {plan.floor}
+                          {plan.floorsTotal ? ` / ${plan.floorsTotal}` : ''}
+                        </span>
                       </div>
                     )}
                     {plan.entrance && (
                       <div className="spec">
                         <span className="spec__l">Подъезд</span>
                         <span className="spec__v">{plan.entrance}</span>
+                      </div>
+                    )}
+                    {plan.deliveryLabel && (
+                      <div className="spec">
+                        <span className="spec__l">Срок сдачи</span>
+                        <span className="spec__v">{plan.deliveryLabel}</span>
                       </div>
                     )}
                   </div>

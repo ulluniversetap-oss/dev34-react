@@ -39,7 +39,9 @@ export interface PlanCard {
   tags: string[];
   number?: string; // номер помещения из MacroCRM
   floor?: number;
+  floorsTotal?: number; // этажность дома (из estateHouses)
   entrance?: number;
+  deliveryLabel?: string; // "Дом введён в эксплуатацию" / "IV кв. 2027" (из estateHouses)
   planImage?: string; // картинка планировки из MacroCRM — есть не у всех лотов
 }
 
