@@ -1,5 +1,10 @@
 name: Macro debug genplan (one-off)
-on: workflow_dispatch
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - '.github/workflows/macro-debug-genplan.yml'
+      - 'scripts/macro-debug-genplan.mjs'
 jobs:
   debug:
     runs-on: ubuntu-latest
