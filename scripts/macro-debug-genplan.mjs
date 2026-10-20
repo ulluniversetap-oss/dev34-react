@@ -20,9 +20,9 @@ const complexId = 4198566; // bereg-volgi-1
 const describe = (e) => ({ error: String(e), cause: e && e.cause ? String(e.cause) : undefined, stack: e && e.stack });
 
 const out = {};
-out.complexGet = await call('/estateComplexes/get', { id: complexId }).catch(describe);
-out.complexesList = await call('/estateComplexes/list', { ids: [complexId] }).catch(describe);
-out.housesList = await call('/estateHouses/list', { complexIds: [complexId] }).catch(describe);
+out.sellSample = await call('/estateSell/list', { complexIds: [complexId], categories: ['comm'] })
+  .then((r) => ({ total: r.data.length, first3: r.data.slice(0, 3) }))
+  .catch(describe);
 
 await writeFile(new URL('../macro-genplan-debug.json', import.meta.url), JSON.stringify(out, null, 2));
 console.log(JSON.stringify(out, null, 2).slice(0, 8000));
