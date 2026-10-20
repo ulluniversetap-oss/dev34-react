@@ -1,0 +1,8 @@
+{
+  "complexGet": {
+    "error": "TypeError: fetch failed"
+  },
+  "housesList": {
+    "error": "TypeError: fetch failed"
+  }
+}
