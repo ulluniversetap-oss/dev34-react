@@ -79,6 +79,10 @@ for (const [slug, complexId] of Object.entries(COMPLEX_MAP)) {
       price: hasRealPrice(item) ? fmtPriceMln(item.price / 100) : 'По запросу',
       status: STATUS_LABEL[item.status],
       tags: buildTags(item),
+      // Ссылка на картинку планировки из MacroCRM — временная (обычно на
+      // несколько дней), поэтому она протухнет к следующей пересборке и
+      // перезапишется свежей, а не станет мёртвой на сайте.
+      planImage: item.planImage || undefined,
       _sortPrice: hasRealPrice(item) ? item.price : Infinity, // лоты без цены — в конец списка
     }))
     .sort((a, b) => a._sortPrice - b._sortPrice)

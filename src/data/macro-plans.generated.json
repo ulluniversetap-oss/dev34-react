@@ -11,25 +11,29 @@
         "area": "53,9",
         "price": "4,0 млн ₽",
         "status": "Бронь",
-        "tags": []
+        "tags": [],
+        "planImage": "https://macro.sbercrm.com/estate/files/tmp/4060026/4043064/G4xdt4Nghz6HdcAAvGizdviuiHXGfT1_OY4SVc8TRQ4eyJ2IjoxLCJwIjoiZXN0YXRlLWZpbGUiLCJzIjoiNDA2MDAyNi40MDQzMDY0LjAiLCJlIjoxNzkyNzU2ODAwfQ/planirovka_k-53_91-1-53.9.jpg"
       },
       {
         "area": "53,9",
         "price": "4,0 млн ₽",
         "status": "Свободно",
-        "tags": []
+        "tags": [],
+        "planImage": "https://macro.sbercrm.com/estate/files/tmp/4560185/4232779/16xLA02GlT96DxPHLE8q_J9lZ2aZNzJ54aF4JWdTz1MeyJ2IjoxLCJwIjoiZXN0YXRlLWZpbGUiLCJzIjoiNDU2MDE4NS40MjMyNzc5LjAiLCJlIjoxNzkyNzU2ODAwfQ/planirovka_k-53_91-1-53.9.jpg"
       },
       {
         "area": "53,9",
         "price": "4,0 млн ₽",
         "status": "Свободно",
-        "tags": []
+        "tags": [],
+        "planImage": "https://macro.sbercrm.com/estate/files/tmp/4560075/4232762/KZPu3-WsDLUG9vdb00JpND15haGmHuVo_tNThBH1BLEeyJ2IjoxLCJwIjoiZXN0YXRlLWZpbGUiLCJzIjoiNDU2MDA3NS40MjMyNzYyLjAiLCJlIjoxNzkyNzU2ODAwfQ/planirovka_k-53_91-1-53.9.jpg"
       },
       {
         "area": "97,9",
         "price": "7,3 млн ₽",
         "status": "Свободно",
-        "tags": []
+        "tags": [],
+        "planImage": "https://macro.sbercrm.com/estate/files/tmp/4107275/4043063/_EdSJkQeddI8YGHqpZiv8PXrnpwyPG848CRo6ZJ089IeyJ2IjoxLCJwIjoiZXN0YXRlLWZpbGUiLCJzIjoiNDEwNzI3NS40MDQzMDYzLjAiLCJlIjoxNzkyNzU2ODAwfQ/planirovka_k-97_9-2-97.9.jpg"
       },
       {
         "area": "54,2",
@@ -37,7 +41,8 @@
         "status": "Свободно",
         "tags": [
           "Первая линия"
-        ]
+        ],
+        "planImage": "https://macro.sbercrm.com/estate/files/tmp/4560075/4232768/EFJzrGehOj5JDGzxvHsq4xQPCGt4-SpLchwFlKbRB3MeyJ2IjoxLCJwIjoiZXN0YXRlLWZpbGUiLCJzIjoiNDU2MDA3NS40MjMyNzY4LjAiLCJlIjoxNzkyNzU2ODAwfQ/planirovka_k-54_21-1z-54.2.jpg"
       },
       {
         "area": "64,4",
@@ -45,7 +50,8 @@
         "status": "Свободно",
         "tags": [
           "Первая линия"
-        ]
+        ],
+        "planImage": "https://macro.sbercrm.com/estate/files/tmp/4560075/4232765/QCgBBZGh3a5iNgaKUfYCW5YLTmj6ykvD1kLOyunjLvYeyJ2IjoxLCJwIjoiZXN0YXRlLWZpbGUiLCJzIjoiNDU2MDA3NS40MjMyNzY1LjAiLCJlIjoxNzkyNzU2ODAwfQ/planirovka_k-64_38-1-64.4.jpg"
       },
       {
         "area": "64,4",
@@ -53,7 +59,8 @@
         "status": "Бронь",
         "tags": [
           "Первая линия"
-        ]
+        ],
+        "planImage": "https://macro.sbercrm.com/estate/files/tmp/4560185/4232791/U_HQdvNymFCmNgwLLm0TwHz3DV-g20s5owTrR6gzZLUeyJ2IjoxLCJwIjoiZXN0YXRlLWZpbGUiLCJzIjoiNDU2MDE4NS40MjMyNzkxLjAiLCJlIjoxNzkyNzU2ODAwfQ/planirovka_k-64_38-1z-64.4.jpg"
       },
       {
         "area": "54,2",
@@ -61,7 +68,8 @@
         "status": "Бронь",
         "tags": [
           "Первая линия"
-        ]
+        ],
+        "planImage": "https://macro.sbercrm.com/estate/files/tmp/4060026/4043066/DPUXEDEyV-QuMY2IQaDtOkaOTWTJliFUMxJNj5r76RkeyJ2IjoxLCJwIjoiZXN0YXRlLWZpbGUiLCJzIjoiNDA2MDAyNi40MDQzMDY2LjAiLCJlIjoxNzkyNzU2ODAwfQ/planirovka_k-54_21-1k-54.2.jpg"
       },
       {
         "area": "64,4",
@@ -69,7 +77,8 @@
         "status": "Бронь",
         "tags": [
           "Первая линия"
-        ]
+        ],
+        "planImage": "https://macro.sbercrm.com/estate/files/tmp/4060026/4043067/tUkrZI5ldNJ0DE5OO2boHqx7x1xLCIsWSGJNk3bccWweyJ2IjoxLCJwIjoiZXN0YXRlLWZpbGUiLCJzIjoiNDA2MDAyNi40MDQzMDY3LjAiLCJlIjoxNzkyNzU2ODAwfQ/planirovka_k-64_38-1-64.4.jpg"
       }
     ]
   },
@@ -87,7 +96,8 @@
         "status": "Свободно",
         "tags": [
           "Первая линия"
-        ]
+        ],
+        "planImage": "https://macro.sbercrm.com/estate/files/tmp/6584598/3990980/_izol80fZqj1ZqKw5mrbwGT6EJ1uAu1vhbbEgz8arUoeyJ2IjoxLCJwIjoiZXN0YXRlLWZpbGUiLCJzIjoiNjU4NDU5OC4zOTkwOTgwLjAiLCJlIjoxNzkyNzU2ODAwfQ/planirovka_k-103_87-2-103.87.jpg"
       },
       {
         "area": "105,8",
@@ -95,7 +105,8 @@
         "status": "Свободно",
         "tags": [
           "Первая линия"
-        ]
+        ],
+        "planImage": "https://macro.sbercrm.com/estate/files/tmp/6584598/3990981/nhv_5rEOv6zdrX5G0YkV6YSiqtYPUkJxhOrB6sAFgyYeyJ2IjoxLCJwIjoiZXN0YXRlLWZpbGUiLCJzIjoiNjU4NDU5OC4zOTkwOTgxLjAiLCJlIjoxNzkyNzU2ODAwfQ/planirovka_k-105_81-1-105.81.jpg"
       },
       {
         "area": "228,4",
@@ -103,7 +114,8 @@
         "status": "Свободно",
         "tags": [
           "Первая линия"
-        ]
+        ],
+        "planImage": "https://macro.sbercrm.com/estate/files/tmp/6584598/3991016/VEnb9hKzFCeeXNK1EzTSOH9Vcz9vIXhkVmmF6iVbnkweyJ2IjoxLCJwIjoiZXN0YXRlLWZpbGUiLCJzIjoiNjU4NDU5OC4zOTkxMDE2LjAiLCJlIjoxNzkyNzU2ODAwfQ/planirovka_k-228_4-1-228.4.jpg"
       },
       {
         "area": "84,2",
@@ -111,7 +123,8 @@
         "status": "Бронь",
         "tags": [
           "Первая линия"
-        ]
+        ],
+        "planImage": "https://macro.sbercrm.com/estate/files/tmp/6584598/3990986/SfBNX-e-BCsTggnCZGV99Ji7n_V8kOa_Ydku7EU6qD4eyJ2IjoxLCJwIjoiZXN0YXRlLWZpbGUiLCJzIjoiNjU4NDU5OC4zOTkwOTg2LjAiLCJlIjoxNzkyNzU2ODAwfQ/planirovka_k-84_21-2-84.21.jpg"
       },
       {
         "area": "56,0",
@@ -119,7 +132,8 @@
         "status": "Бронь",
         "tags": [
           "Первая линия"
-        ]
+        ],
+        "planImage": "https://macro.sbercrm.com/estate/files/tmp/6584598/3990985/oCgUWhBMRn-Ye_6ZPCFKhhxQ6XVICWiTq8A5pSsolF4eyJ2IjoxLCJwIjoiZXN0YXRlLWZpbGUiLCJzIjoiNjU4NDU5OC4zOTkwOTg1LjAiLCJlIjoxNzkyNzU2ODAwfQ/planirovka_k-55_98-2-55.98.jpg"
       },
       {
         "area": "42,8",
@@ -127,7 +141,8 @@
         "status": "Бронь",
         "tags": [
           "Первая линия"
-        ]
+        ],
+        "planImage": "https://macro.sbercrm.com/estate/files/tmp/6584598/3990984/eoF78NRo5cHbsZIzQjxlEVORcab_V-UnVOgJqtmddJEeyJ2IjoxLCJwIjoiZXN0YXRlLWZpbGUiLCJzIjoiNjU4NDU5OC4zOTkwOTg0LjAiLCJlIjoxNzkyNzU2ODAwfQ/planirovka_k-42_76-2-42.76.jpg"
       },
       {
         "area": "42,1",
@@ -135,7 +150,8 @@
         "status": "Бронь",
         "tags": [
           "Первая линия"
-        ]
+        ],
+        "planImage": "https://macro.sbercrm.com/estate/files/tmp/6584598/3990983/0526r6WaItO-69mN1Aejbkh85cugaIuzynQGToCjdMceyJ2IjoxLCJwIjoiZXN0YXRlLWZpbGUiLCJzIjoiNjU4NDU5OC4zOTkwOTgzLjAiLCJlIjoxNzkyNzU2ODAwfQ/planirovka_k-42_1-2-42.1.jpg"
       },
       {
         "area": "37,8",
@@ -143,7 +159,8 @@
         "status": "Бронь",
         "tags": [
           "Первая линия"
-        ]
+        ],
+        "planImage": "https://macro.sbercrm.com/estate/files/tmp/6584598/3990982/guW90Gt6WKN2YF_x_mAbaPqrpXZbVHrO19_HqNC_10YeyJ2IjoxLCJwIjoiZXN0YXRlLWZpbGUiLCJzIjoiNjU4NDU5OC4zOTkwOTgyLjAiLCJlIjoxNzkyNzU2ODAwfQ/planirovka_k-37_81-2-37.81.jpg"
       },
       {
         "area": "188,4",
@@ -151,7 +168,8 @@
         "status": "Бронь",
         "tags": [
           "Первая линия"
-        ]
+        ],
+        "planImage": "https://macro.sbercrm.com/estate/files/tmp/6593874/4250578/aBF2371fmJbYEW7-A7Zb68Bh9YtT3YviMRmlhRQCQ2weyJ2IjoxLCJwIjoiZXN0YXRlLWZpbGUiLCJzIjoiNjU5Mzg3NC40MjUwNTc4LjAiLCJlIjoxNzkyNzU2ODAwfQ/planirovka_k-188_41-1-188.41.jpg"
       },
       {
         "area": "146,5",
@@ -159,7 +177,8 @@
         "status": "Бронь",
         "tags": [
           "Первая линия"
-        ]
+        ],
+        "planImage": "https://macro.sbercrm.com/estate/files/tmp/6593874/4250579/gd1x8VYPAbDqGIfAbrA5UKMXzlnRw4xK2jkzrb4Bnz0eyJ2IjoxLCJwIjoiZXN0YXRlLWZpbGUiLCJzIjoiNjU5Mzg3NC40MjUwNTc5LjAiLCJlIjoxNzkyNzU2ODAwfQ/planirovka_k-146_47-1-146.47.jpg"
       },
       {
         "area": "76,0",
@@ -167,7 +186,8 @@
         "status": "Бронь",
         "tags": [
           "Первая линия"
-        ]
+        ],
+        "planImage": "https://macro.sbercrm.com/estate/files/tmp/6593874/4250574/HquAyQLVu3p8yk_xcrRbmeQHVPWXdCM2kZWVfRFmlzgeyJ2IjoxLCJwIjoiZXN0YXRlLWZpbGUiLCJzIjoiNjU5Mzg3NC40MjUwNTc0LjAiLCJlIjoxNzkyNzU2ODAwfQ/planirovka_k-75_95-2-75.95.jpg"
       },
       {
         "area": "76,0",
@@ -175,7 +195,8 @@
         "status": "Бронь",
         "tags": [
           "Первая линия"
-        ]
+        ],
+        "planImage": "https://macro.sbercrm.com/estate/files/tmp/6593874/4250575/w1mPiVbOV5LCPtPZn9QqTQ-WV3HChi6u9UobBW5SjyIeyJ2IjoxLCJwIjoiZXN0YXRlLWZpbGUiLCJzIjoiNjU5Mzg3NC40MjUwNTc1LjAiLCJlIjoxNzkyNzU2ODAwfQ/planirovka_k-75_95-6-75.95.jpg"
       },
       {
         "area": "39,2",
@@ -183,7 +204,8 @@
         "status": "Бронь",
         "tags": [
           "Первая линия"
-        ]
+        ],
+        "planImage": "https://macro.sbercrm.com/estate/files/tmp/6593874/4250577/IHWxJKOwBG_4unjn4eiHRRiv2DeRhVKFNvwhvUy7szweyJ2IjoxLCJwIjoiZXN0YXRlLWZpbGUiLCJzIjoiNjU5Mzg3NC40MjUwNTc3LjAiLCJlIjoxNzkyNzU2ODAwfQ/planirovka_k-39_17-3-39.17.jpg"
       },
       {
         "area": "517,6",
@@ -191,7 +213,8 @@
         "status": "Бронь",
         "tags": [
           "Первая линия"
-        ]
+        ],
+        "planImage": "https://macro.sbercrm.com/estate/files/tmp/6593874/4250576/lQHLr_XcLowy0A50qRQKw_AfNvpu9sgqqUqgtUYaeyseyJ2IjoxLCJwIjoiZXN0YXRlLWZpbGUiLCJzIjoiNjU5Mzg3NC40MjUwNTc2LjAiLCJlIjoxNzkyNzU2ODAwfQ/planirovka_k-517_63-3-517.63.jpg"
       }
     ]
   },
@@ -210,7 +233,8 @@
         "tags": [
           "Первая линия",
           "Потолки 3,3 м"
-        ]
+        ],
+        "planImage": "https://macro.sbercrm.com/estate/files/tmp/4002854/4071191/XbaB4sr8reEGVnVvbhWNNM3iPQ_a-sDgd-RSC4B0JoEeyJ2IjoxLCJwIjoiZXN0YXRlLWZpbGUiLCJzIjoiNDAwMjg1NC40MDcxMTkxLjAiLCJlIjoxNzkyNzU2ODAwfQ/planirovka_k-12_49-1-12.49.jpg"
       },
       {
         "area": "28,5",
@@ -219,7 +243,8 @@
         "tags": [
           "Первая линия",
           "Потолки 3,3 м"
-        ]
+        ],
+        "planImage": "https://macro.sbercrm.com/estate/files/tmp/4002854/4071193/QkimKi4dBnhvHIFv4xb-as9IjFMYuuonG47qhqdU9rgeyJ2IjoxLCJwIjoiZXN0YXRlLWZpbGUiLCJzIjoiNDAwMjg1NC40MDcxMTkzLjAiLCJlIjoxNzkyNzU2ODAwfQ/planirovka_k-28_48-1-28.48.jpg"
       },
       {
         "area": "30,0",
@@ -228,7 +253,8 @@
         "tags": [
           "Первая линия",
           "Потолки 3,3 м"
-        ]
+        ],
+        "planImage": "https://macro.sbercrm.com/estate/files/tmp/4155330/4071202/c_Y1AxK7Aw4FyzidsYJZIZwgr8saklE7H5lMgCQOGOseyJ2IjoxLCJwIjoiZXN0YXRlLWZpbGUiLCJzIjoiNDE1NTMzMC40MDcxMjAyLjAiLCJlIjoxNzkyNzU2ODAwfQ/planirovka_k-30_02-1-30.02.jpg"
       },
       {
         "area": "28,5",
@@ -237,7 +263,8 @@
         "tags": [
           "Первая линия",
           "Потолки 3,3 м"
-        ]
+        ],
+        "planImage": "https://macro.sbercrm.com/estate/files/tmp/4039557/4071059/ROg3JeUtCDxtQZGnEqi0bqguhKmDeozirjUSJrhOM14eyJ2IjoxLCJwIjoiZXN0YXRlLWZpbGUiLCJzIjoiNDAzOTU1Ny40MDcxMDU5LjAiLCJlIjoxNzkyNzU2ODAwfQ/planirovka_k-28_48-1-28.48.jpg"
       },
       {
         "area": "35,2",
@@ -246,7 +273,8 @@
         "tags": [
           "Первая линия",
           "Потолки 3,3 м"
-        ]
+        ],
+        "planImage": "https://macro.sbercrm.com/estate/files/tmp/4002854/4071194/vCmrvU15WMEO4zMO1Zs8ksowFbvVWKiXB_HnmLEpHL8eyJ2IjoxLCJwIjoiZXN0YXRlLWZpbGUiLCJzIjoiNDAwMjg1NC40MDcxMTk0LjAiLCJlIjoxNzkyNzU2ODAwfQ/planirovka_k-35_17-1-35.17.jpg"
       },
       {
         "area": "35,2",
@@ -255,7 +283,8 @@
         "tags": [
           "Первая линия",
           "Потолки 3,3 м"
-        ]
+        ],
+        "planImage": "https://macro.sbercrm.com/estate/files/tmp/3809034/4071009/CUZElZc5WidrQJVOHSfYtqfT08YACkpalBhMioXy2nUeyJ2IjoxLCJwIjoiZXN0YXRlLWZpbGUiLCJzIjoiMzgwOTAzNC40MDcxMDA5LjAiLCJlIjoxNzkyNzU2ODAwfQ/planirovka_k-35_17-1-35.17.jpg"
       },
       {
         "area": "30,0",
@@ -264,7 +293,8 @@
         "tags": [
           "Первая линия",
           "Потолки 3,3 м"
-        ]
+        ],
+        "planImage": "https://macro.sbercrm.com/estate/files/tmp/4039557/4071060/iopOB4iYU86ZFLt2bSOmwijb4OElUsHxkdu4HpdLIFAeyJ2IjoxLCJwIjoiZXN0YXRlLWZpbGUiLCJzIjoiNDAzOTU1Ny40MDcxMDYwLjAiLCJlIjoxNzkyNzU2ODAwfQ/planirovka_k-30_02-1-30.02.jpg"
       },
       {
         "area": "38,3",
@@ -273,7 +303,8 @@
         "tags": [
           "Первая линия",
           "Потолки 3,3 м"
-        ]
+        ],
+        "planImage": "https://macro.sbercrm.com/estate/files/tmp/4002854/4071195/W4nQJ9qzB0aTxF1C8l54PMX82JqZkCMgCQKYt0H75QQeyJ2IjoxLCJwIjoiZXN0YXRlLWZpbGUiLCJzIjoiNDAwMjg1NC40MDcxMTk1LjAiLCJlIjoxNzkyNzU2ODAwfQ/planirovka_k-38_33-38.33.jpg"
       },
       {
         "area": "38,4",
@@ -282,7 +313,8 @@
         "tags": [
           "Первая линия",
           "Потолки 3,3 м"
-        ]
+        ],
+        "planImage": "https://macro.sbercrm.com/estate/files/tmp/3809034/4071010/tJHdJTQCyDANdHtMEqvD64WfoIw3W6n0kB5FBORdcDIeyJ2IjoxLCJwIjoiZXN0YXRlLWZpbGUiLCJzIjoiMzgwOTAzNC40MDcxMDEwLjAiLCJlIjoxNzkyNzU2ODAwfQ/planirovka_k-38_63-1-38.63.jpg"
       },
       {
         "area": "38,4",
@@ -290,7 +322,8 @@
         "status": "Бронь",
         "tags": [
           "Первая линия"
-        ]
+        ],
+        "planImage": "https://macro.sbercrm.com/estate/files/tmp/4039557/4071061/pMJb0yD2FRpoy73nJa7z4u254cCEVryVAmhoUYH_y6AeyJ2IjoxLCJwIjoiZXN0YXRlLWZpbGUiLCJzIjoiNDAzOTU1Ny40MDcxMDYxLjAiLCJlIjoxNzkyNzU2ODAwfQ/planirovka_k-38_43-1-38.43.jpg"
       },
       {
         "area": "67,9",
@@ -299,7 +332,8 @@
         "tags": [
           "Первая линия",
           "Потолки 3,3 м"
-        ]
+        ],
+        "planImage": "https://macro.sbercrm.com/estate/files/tmp/4002854/4071196/5vlEIuldBfLwwu29qiDDS3OMQ5DdJqRqPtPaBwXSSn0eyJ2IjoxLCJwIjoiZXN0YXRlLWZpbGUiLCJzIjoiNDAwMjg1NC40MDcxMTk2LjAiLCJlIjoxNzkyNzU2ODAwfQ/planirovka_k-67_93-67.93.jpg"
       },
       {
         "area": "59,4",
@@ -308,7 +342,8 @@
         "tags": [
           "Первая линия",
           "Потолки 3,3 м"
-        ]
+        ],
+        "planImage": "https://macro.sbercrm.com/estate/files/tmp/4039557/4071062/nGIJnGncW2XUixQGSVrnFy4HvbjWmW3MCRkaY190NbIeyJ2IjoxLCJwIjoiZXN0YXRlLWZpbGUiLCJzIjoiNDAzOTU1Ny40MDcxMDYyLjAiLCJlIjoxNzkyNzU2ODAwfQ/planirovka_k-59_38-1-59.38.jpg"
       },
       {
         "area": "75,6",
@@ -317,7 +352,8 @@
         "tags": [
           "Первая линия",
           "Потолки 3,3 м"
-        ]
+        ],
+        "planImage": "https://macro.sbercrm.com/estate/files/tmp/4155330/4071207/X7U6SKOeWWRWxIwYWkGJaH8wV5-DlMnogBeKxjpfSukeyJ2IjoxLCJwIjoiZXN0YXRlLWZpbGUiLCJzIjoiNDE1NTMzMC40MDcxMjA3LjAiLCJlIjoxNzkyNzU2ODAwfQ/planirovka_k-75_58-1-75.58.jpg"
       },
       {
         "area": "67,9",
@@ -326,7 +362,8 @@
         "tags": [
           "Первая линия",
           "Потолки 3,3 м"
-        ]
+        ],
+        "planImage": "https://macro.sbercrm.com/estate/files/tmp/4039557/4071063/O8S2ifzHY5M46XjqGSGKn8JIqXnqVBUnABPcD0xu4ZseyJ2IjoxLCJwIjoiZXN0YXRlLWZpbGUiLCJzIjoiNDAzOTU1Ny40MDcxMDYzLjAiLCJlIjoxNzkyNzU2ODAwfQ/planirovka_k-67_89-1-67.89.jpg"
       },
       {
         "area": "90,5",
@@ -335,7 +372,8 @@
         "tags": [
           "Первая линия",
           "Потолки 3,3 м"
-        ]
+        ],
+        "planImage": "https://macro.sbercrm.com/estate/files/tmp/4002854/4071190/SOH0tXudNx-xjT8zaFTjzcejGBXHcw4yqU-ro2Dv-dQeyJ2IjoxLCJwIjoiZXN0YXRlLWZpbGUiLCJzIjoiNDAwMjg1NC40MDcxMTkwLjAiLCJlIjoxNzkyNzU2ODAwfQ/planirovka_k-90_54-1-90.54.jpg"
       },
       {
         "area": "97,4",
@@ -344,7 +382,8 @@
         "tags": [
           "Первая линия",
           "Потолки 3,3 м"
-        ]
+        ],
+        "planImage": "https://macro.sbercrm.com/estate/files/tmp/4155330/4071208/wbnikMht143TWJxcnXYsPAgtXQYfSeL7gHTtO5GyorceyJ2IjoxLCJwIjoiZXN0YXRlLWZpbGUiLCJzIjoiNDE1NTMzMC40MDcxMjA4LjAiLCJlIjoxNzkyNzU2ODAwfQ/planirovka_k-97_44-1-97.44.jpg"
       },
       {
         "area": "97,7",
@@ -353,7 +392,8 @@
         "tags": [
           "Первая линия",
           "Потолки 3,3 м"
-        ]
+        ],
+        "planImage": "https://macro.sbercrm.com/estate/files/tmp/3809034/4071017/7CpuqKergF2UpYETzUJ1B-U1iBtK9KhXceCvXJT8eKYeyJ2IjoxLCJwIjoiZXN0YXRlLWZpbGUiLCJzIjoiMzgwOTAzNC40MDcxMDE3LjAiLCJlIjoxNzkyNzU2ODAwfQ/planirovka_k-97_65-1-97.65.jpg"
       },
       {
         "area": "90,5",
@@ -362,7 +402,8 @@
         "tags": [
           "Первая линия",
           "Потолки 3,3 м"
-        ]
+        ],
+        "planImage": "https://macro.sbercrm.com/estate/files/tmp/3809034/4071011/qGW4BCa9s5kplAPqPPJnUE22r6c_kC-FIOz7l14-LhQeyJ2IjoxLCJwIjoiZXN0YXRlLWZpbGUiLCJzIjoiMzgwOTAzNC40MDcxMDExLjAiLCJlIjoxNzkyNzU2ODAwfQ/planirovka_k-90_56-1-90.56.jpg"
       },
       {
         "area": "115,2",
@@ -371,7 +412,8 @@
         "tags": [
           "Первая линия",
           "Потолки 3,3 м"
-        ]
+        ],
+        "planImage": "https://macro.sbercrm.com/estate/files/tmp/4002854/4071192/r-pnXLoSpVSVNtIVKr5dahbrDmqYKk5K_hf2voRCxSgeyJ2IjoxLCJwIjoiZXN0YXRlLWZpbGUiLCJzIjoiNDAwMjg1NC40MDcxMTkyLjAiLCJlIjoxNzkyNzU2ODAwfQ/planirovka_k-115_17-1-115.17.jpg"
       },
       {
         "area": "115,4",
@@ -380,7 +422,8 @@
         "tags": [
           "Первая линия",
           "Потолки 3,3 м"
-        ]
+        ],
+        "planImage": "https://macro.sbercrm.com/estate/files/tmp/4155330/4071200/sKUKbvZdDEAsJb3Mqm0ScO_l8kiACsaTdrKfQSUl8ZEeyJ2IjoxLCJwIjoiZXN0YXRlLWZpbGUiLCJzIjoiNDE1NTMzMC40MDcxMjAwLjAiLCJlIjoxNzkyNzU2ODAwfQ/planirovka_k-115_35-1-115.35.jpg"
       },
       {
         "area": "97,6",
@@ -389,7 +432,8 @@
         "tags": [
           "Первая линия",
           "Потолки 3,3 м"
-        ]
+        ],
+        "planImage": "https://macro.sbercrm.com/estate/files/tmp/4002854/4071189/oG45E55oM3IRb2uZuPyH8Ps0BHTCdRwnoDgjJviL7kAeyJ2IjoxLCJwIjoiZXN0YXRlLWZpbGUiLCJzIjoiNDAwMjg1NC40MDcxMTg5LjAiLCJlIjoxNzkyNzU2ODAwfQ/planirovka_k-97_64-1-97.64.jpg"
       },
       {
         "area": "97,4",
@@ -398,7 +442,8 @@
         "tags": [
           "Первая линия",
           "Потолки 3,3 м"
-        ]
+        ],
+        "planImage": "https://macro.sbercrm.com/estate/files/tmp/3809034/4071015/9yuJrRD6ZXMUpUmCkGzYo5MDZocczBNgUmbzJ0nlbtIeyJ2IjoxLCJwIjoiZXN0YXRlLWZpbGUiLCJzIjoiMzgwOTAzNC40MDcxMDE1LjAiLCJlIjoxNzkyNzU2ODAwfQ/planirovka_k-97_66-1-97.65.jpg"
       },
       {
         "area": "134,5",
@@ -407,7 +452,8 @@
         "tags": [
           "Первая линия",
           "Потолки 3,3 м"
-        ]
+        ],
+        "planImage": "https://macro.sbercrm.com/estate/files/tmp/4039557/4071058/MlDdLNTz3r5-lOsDQHNHcAeL8b2uwGINLeD2F2W5Rk4eyJ2IjoxLCJwIjoiZXN0YXRlLWZpbGUiLCJzIjoiNDAzOTU1Ny40MDcxMDU4LjAiLCJlIjoxNzkyNzU2ODAwfQ/planirovka_k-120_52-1-134.89.jpg"
       },
       {
         "area": "115,1",
@@ -416,7 +462,8 @@
         "tags": [
           "Первая линия",
           "Потолки 3,3 м"
-        ]
+        ],
+        "planImage": "https://macro.sbercrm.com/estate/files/tmp/4039557/4071056/ftxX-Ap3jwNizCtZd2o4LKaYqEJtp0xt_6CDt5akEC4eyJ2IjoxLCJwIjoiZXN0YXRlLWZpbGUiLCJzIjoiNDAzOTU1Ny40MDcxMDU2LjAiLCJlIjoxNzkyNzU2ODAwfQ/planirovka_k-109_5-1-115.14.jpg"
       },
       {
         "area": "115,4",
@@ -425,7 +472,8 @@
         "tags": [
           "Первая линия",
           "Потолки 3,3 м"
-        ]
+        ],
+        "planImage": "https://macro.sbercrm.com/estate/files/tmp/3809034/4071007/lc2AV6G7ZPZf4N4Vfp4Lnj8z1LQe0_nWUPMZqq6mdfceyJ2IjoxLCJwIjoiZXN0YXRlLWZpbGUiLCJzIjoiMzgwOTAzNC40MDcxMDA3LjAiLCJlIjoxNzkyNzU2ODAwfQ/planirovka_k-115_35-1-115.35.jpg"
       }
     ]
   },
@@ -443,7 +491,8 @@
         "status": "Бронь",
         "tags": [
           "Первая линия"
-        ]
+        ],
+        "planImage": "https://macro.sbercrm.com/estate/files/tmp/3819590/3496887/kf68AnWj7B7arvUwzIsWyKGIGjfOj1xGijSb3gajMV0eyJ2IjoxLCJwIjoiZXN0YXRlLWZpbGUiLCJzIjoiMzgxOTU5MC4zNDk2ODg3LjAiLCJlIjoxNzkyNzU2ODAwfQ/planirovka_k-37_7-1-37.7.jpg"
       },
       {
         "area": "32,8",
@@ -451,7 +500,8 @@
         "status": "Бронь",
         "tags": [
           "Первая линия"
-        ]
+        ],
+        "planImage": "https://macro.sbercrm.com/estate/files/tmp/3943399/3511730/r9XBOb16jIL_83dXW1K--5XiL7G8YF9UWYRpLBmh0rYeyJ2IjoxLCJwIjoiZXN0YXRlLWZpbGUiLCJzIjoiMzk0MzM5OS4zNTExNzMwLjAiLCJlIjoxNzkyNzU2ODAwfQ/planirovka_k-32_83-1-32.83.jpg"
       },
       {
         "area": "66,7",
@@ -459,7 +509,8 @@
         "status": "Свободно",
         "tags": [
           "Первая линия"
-        ]
+        ],
+        "planImage": "https://macro.sbercrm.com/estate/files/tmp/3943399/3511737/apxitpyMmwTZhKIktIUISoiCOLLpc185L6tx8VADD0geyJ2IjoxLCJwIjoiZXN0YXRlLWZpbGUiLCJzIjoiMzk0MzM5OS4zNTExNzM3LjAiLCJlIjoxNzkyNzU2ODAwfQ/planirovka_k-66_73-1-66.73.jpg"
       },
       {
         "area": "238,9",
@@ -467,7 +518,8 @@
         "status": "Бронь",
         "tags": [
           "Первая линия"
-        ]
+        ],
+        "planImage": "https://macro.sbercrm.com/estate/files/tmp/3819590/3496886/qtqrKa72lsed3-QoTRDz_Y-kfmI5eyQzjg-lDHZ12H8eyJ2IjoxLCJwIjoiZXN0YXRlLWZpbGUiLCJzIjoiMzgxOTU5MC4zNDk2ODg2LjAiLCJlIjoxNzkyNzU2ODAwfQ/planirovka_k-238_92-1-238.92.jpg"
       },
       {
         "area": "386,3",
@@ -475,7 +527,8 @@
         "status": "Свободно",
         "tags": [
           "Первая линия"
-        ]
+        ],
+        "planImage": "https://macro.sbercrm.com/estate/files/tmp/3809573/3976913/jM9uHPSXM0ujrCW945QTpiT62zv6yN8r0npnZPGExwweyJ2IjoxLCJwIjoiZXN0YXRlLWZpbGUiLCJzIjoiMzgwOTU3My4zOTc2OTEzLjAiLCJlIjoxNzkyNzU2ODAwfQ/planirovka_k-30_62-1-386.3.jpg"
       },
       {
         "area": "110,3",
@@ -483,7 +536,8 @@
         "status": "Бронь",
         "tags": [
           "Первая линия"
-        ]
+        ],
+        "planImage": "https://macro.sbercrm.com/estate/files/tmp/3810388/3496911/hmVh8-n25r9COfMgBLO3M5-bxb8Cvg7tPxZLVaz_XJYeyJ2IjoxLCJwIjoiZXN0YXRlLWZpbGUiLCJzIjoiMzgxMDM4OC4zNDk2OTExLjAiLCJlIjoxNzkyNzU2ODAwfQ/planirovka_k-110_28-1-110.28.jpg"
       },
       {
         "area": "238,9",
@@ -491,7 +545,8 @@
         "status": "Бронь",
         "tags": [
           "Первая линия"
-        ]
+        ],
+        "planImage": "https://macro.sbercrm.com/estate/files/tmp/3822114/3497023/3wVMEt7b5rl7ZWrB0YkNj05pbkbrpDzEZzaCOIYuCCkeyJ2IjoxLCJwIjoiZXN0YXRlLWZpbGUiLCJzIjoiMzgyMjExNC4zNDk3MDIzLjAiLCJlIjoxNzkyNzU2ODAwfQ/planirovka_k-238_92-1-238.92.jpg"
       },
       {
         "area": "147,2",
@@ -499,7 +554,8 @@
         "status": "Бронь",
         "tags": [
           "Первая линия"
-        ]
+        ],
+        "planImage": "https://macro.sbercrm.com/estate/files/tmp/7043940/4231378/ohgEj0jJfBU0zgek1r9cBe1fJFxdUm_J8tEEvt36GMweyJ2IjoxLCJwIjoiZXN0YXRlLWZpbGUiLCJzIjoiNzA0Mzk0MC40MjMxMzc4LjAiLCJlIjoxNzkyNzU2ODAwfQ/planirovka_k-147_22-1-147.22.jpg"
       },
       {
         "area": "146,9",
@@ -507,7 +563,8 @@
         "status": "Бронь",
         "tags": [
           "Первая линия"
-        ]
+        ],
+        "planImage": "https://macro.sbercrm.com/estate/files/tmp/7043940/4231377/HE1mw4Ftn6_oPXKQuEU89ThdFMoJIcwfOEauiz-xHhUeyJ2IjoxLCJwIjoiZXN0YXRlLWZpbGUiLCJzIjoiNzA0Mzk0MC40MjMxMzc3LjAiLCJlIjoxNzkyNzU2ODAwfQ/planirovka_k-146_87-1-146.87.jpg"
       },
       {
         "area": "56,6",
@@ -515,7 +572,8 @@
         "status": "Бронь",
         "tags": [
           "Первая линия"
-        ]
+        ],
+        "planImage": "https://macro.sbercrm.com/estate/files/tmp/7043940/4231379/n0SIjloHA1Y5N6uzAGIa0XxGMQJssg_q7CYFhCaG-2keyJ2IjoxLCJwIjoiZXN0YXRlLWZpbGUiLCJzIjoiNzA0Mzk0MC40MjMxMzc5LjAiLCJlIjoxNzkyNzU2ODAwfQ/planirovka_k-56_61-1-56.61.jpg"
       },
       {
         "area": "34,0",
@@ -523,7 +581,8 @@
         "status": "Бронь",
         "tags": [
           "Первая линия"
-        ]
+        ],
+        "planImage": "https://macro.sbercrm.com/estate/files/tmp/7043940/4231380/WU6QKxOx_CuNMfeHvjTT6djbP08sxgCSl_tbxdlXGA0eyJ2IjoxLCJwIjoiZXN0YXRlLWZpbGUiLCJzIjoiNzA0Mzk0MC40MjMxMzgwLjAiLCJlIjoxNzkyNzU2ODAwfQ/planirovka_k-76_78-1-76.78.jpg"
       },
       {
         "area": "41,6",
@@ -531,7 +590,8 @@
         "status": "Бронь",
         "tags": [
           "Первая линия"
-        ]
+        ],
+        "planImage": "https://macro.sbercrm.com/estate/files/tmp/7046654/4244963/hZ2vah0MzqKmmW7KLlU6FiGQrykiRr7c5PZKEjH-ey4eyJ2IjoxLCJwIjoiZXN0YXRlLWZpbGUiLCJzIjoiNzA0NjY1NC40MjQ0OTYzLjAiLCJlIjoxNzkyNzU2ODAwfQ/planirovka_k-41_62-1-41.62.jpg"
       },
       {
         "area": "28,7",
@@ -539,7 +599,8 @@
         "status": "Бронь",
         "tags": [
           "Первая линия"
-        ]
+        ],
+        "planImage": "https://macro.sbercrm.com/estate/files/tmp/7046654/4244957/GyXiusXiLiXMKd2gD7wiWp0hdsjENQp9c1xJ_eTIWcUeyJ2IjoxLCJwIjoiZXN0YXRlLWZpbGUiLCJzIjoiNzA0NjY1NC40MjQ0OTU3LjAiLCJlIjoxNzkyNzU2ODAwfQ/planirovka_k-28_69-1-28.69.jpg"
       },
       {
         "area": "29,5",
@@ -547,7 +608,8 @@
         "status": "Бронь",
         "tags": [
           "Первая линия"
-        ]
+        ],
+        "planImage": "https://macro.sbercrm.com/estate/files/tmp/7046654/4244958/i5SOI-8jB19pT_FXnemWV6ipOfiMuJtnFRcUzPWEyFEeyJ2IjoxLCJwIjoiZXN0YXRlLWZpbGUiLCJzIjoiNzA0NjY1NC40MjQ0OTU4LjAiLCJlIjoxNzkyNzU2ODAwfQ/planirovka_k-29_51-1-29.51.jpg"
       },
       {
         "area": "32,1",
@@ -555,7 +617,8 @@
         "status": "Бронь",
         "tags": [
           "Первая линия"
-        ]
+        ],
+        "planImage": "https://macro.sbercrm.com/estate/files/tmp/7046654/4244961/WDx-L33zUvrejBh_xtL_DM2hBSv6_GCOCLV7-2d4_zUeyJ2IjoxLCJwIjoiZXN0YXRlLWZpbGUiLCJzIjoiNzA0NjY1NC40MjQ0OTYxLjAiLCJlIjoxNzkyNzU2ODAwfQ/planirovka_k-32_07-1-32.07.jpg"
       },
       {
         "area": "31,8",
@@ -563,7 +626,8 @@
         "status": "Бронь",
         "tags": [
           "Первая линия"
-        ]
+        ],
+        "planImage": "https://macro.sbercrm.com/estate/files/tmp/7046654/4244959/ncCqUqFcnScKG0bfdG0zt7t6p19Y46SYpa0anF28nGUeyJ2IjoxLCJwIjoiZXN0YXRlLWZpbGUiLCJzIjoiNzA0NjY1NC40MjQ0OTU5LjAiLCJlIjoxNzkyNzU2ODAwfQ/planirovka_k-31_82-2-31.82.jpg"
       },
       {
         "area": "77,8",
@@ -571,7 +635,8 @@
         "status": "Бронь",
         "tags": [
           "Первая линия"
-        ]
+        ],
+        "planImage": "https://macro.sbercrm.com/estate/files/tmp/7046654/4244966/yX8csUWvjx58Z3o3tnYMuWxzOEMGuPI71KqXM9QzXsoeyJ2IjoxLCJwIjoiZXN0YXRlLWZpbGUiLCJzIjoiNzA0NjY1NC40MjQ0OTY2LjAiLCJlIjoxNzkyNzU2ODAwfQ/planirovka_k-77_76-2-77.76.jpg"
       },
       {
         "area": "44,0",
@@ -579,7 +644,8 @@
         "status": "Бронь",
         "tags": [
           "Первая линия"
-        ]
+        ],
+        "planImage": "https://macro.sbercrm.com/estate/files/tmp/7046654/4244964/B5vgP7lMV2291pG0bugHx_qiKN49-1f2yl7W9hV34i0eyJ2IjoxLCJwIjoiZXN0YXRlLWZpbGUiLCJzIjoiNzA0NjY1NC40MjQ0OTY0LjAiLCJlIjoxNzkyNzU2ODAwfQ/planirovka_k-44_05-2-44.05.jpg"
       },
       {
         "area": "52,6",
@@ -587,7 +653,8 @@
         "status": "Бронь",
         "tags": [
           "Первая линия"
-        ]
+        ],
+        "planImage": "https://macro.sbercrm.com/estate/files/tmp/7046654/4244965/lylq7y-fv2Wn3kO7o-tNQ6L0DbkDWfjbgHdvPImcGdYeyJ2IjoxLCJwIjoiZXN0YXRlLWZpbGUiLCJzIjoiNzA0NjY1NC40MjQ0OTY1LjAiLCJlIjoxNzkyNzU2ODAwfQ/planirovka_k-52_65-2-52.65.jpg"
       },
       {
         "area": "40,3",
@@ -595,7 +662,8 @@
         "status": "Бронь",
         "tags": [
           "Первая линия"
-        ]
+        ],
+        "planImage": "https://macro.sbercrm.com/estate/files/tmp/7046654/4244962/hlxBA2mlRj4LRDOnAsSjq-c9xo8jjuHeAxEKbBqBCeQeyJ2IjoxLCJwIjoiZXN0YXRlLWZpbGUiLCJzIjoiNzA0NjY1NC40MjQ0OTYyLjAiLCJlIjoxNzkyNzU2ODAwfQ/planirovka_k-40_29-2-40.29.jpg"
       }
     ]
   },
@@ -611,13 +679,15 @@
         "area": "57,7",
         "price": "6,3 млн ₽",
         "status": "Свободно",
-        "tags": []
+        "tags": [],
+        "planImage": "https://macro.sbercrm.com/estate/files/tmp/6587555/4220587/DQR_skqa92ld-utqCmfpLIWv93cG6m0CM-JfcH2drnAeyJ2IjoxLCJwIjoiZXN0YXRlLWZpbGUiLCJzIjoiNjU4NzU1NS40MjIwNTg3LjAiLCJlIjoxNzkyNzU2ODAwfQ/planirovka_k-31.98-2-0.jpg"
       },
       {
         "area": "58,9",
         "price": "6,5 млн ₽",
         "status": "Свободно",
-        "tags": []
+        "tags": [],
+        "planImage": "https://macro.sbercrm.com/estate/files/tmp/6587555/4220588/MYonHO72CrYH8DaHEmJIEe_e0OIx6G9ez7FUYoJqve4eyJ2IjoxLCJwIjoiZXN0YXRlLWZpbGUiLCJzIjoiNjU4NzU1NS40MjIwNTg4LjAiLCJlIjoxNzkyNzU2ODAwfQ/planirovka_k-47_69-1-58.9.jpg"
       },
       {
         "area": "78,9",
@@ -625,7 +695,8 @@
         "status": "Свободно",
         "tags": [
           "Потолки 3,2 м"
-        ]
+        ],
+        "planImage": "https://macro.sbercrm.com/estate/files/tmp/6587555/4219250/sbewXEPlpwd3h29xkl9uVyb2kGRwM7v28Us8COir26ceyJ2IjoxLCJwIjoiZXN0YXRlLWZpbGUiLCJzIjoiNjU4NzU1NS40MjE5MjUwLjAiLCJlIjoxNzkyNzU2ODAwfQ/planirovka_k-195_59-1-195.6.jpg"
       }
     ]
   },
@@ -641,25 +712,29 @@
         "area": "38,5",
         "price": "5,0 млн ₽",
         "status": "Бронь",
-        "tags": []
+        "tags": [],
+        "planImage": "https://macro.sbercrm.com/estate/files/tmp/3908618/4218255/nkWefweJqOrwoJH3pGXJTpmfcF2ihpgs0F_LX3U2J24eyJ2IjoxLCJwIjoiZXN0YXRlLWZpbGUiLCJzIjoiMzkwODYxOC40MjE4MjU1LjAiLCJlIjoxNzkyNzU2ODAwfQ/planirovka_k-37-38.5.jpg"
       },
       {
         "area": "47,7",
         "price": "6,2 млн ₽",
         "status": "Бронь",
-        "tags": []
+        "tags": [],
+        "planImage": "https://macro.sbercrm.com/estate/files/tmp/3908618/4218256/pUGyJgQhe5eB8YGhiXo1xW8rrIPcy4nlQf_wj8m9FBUeyJ2IjoxLCJwIjoiZXN0YXRlLWZpbGUiLCJzIjoiMzkwODYxOC40MjE4MjU2LjAiLCJlIjoxNzkyNzU2ODAwfQ/planirovka_k-47_8-1-47.7.jpg"
       },
       {
         "area": "119,3",
         "price": "13,1 млн ₽",
         "status": "Свободно",
-        "tags": []
+        "tags": [],
+        "planImage": "https://macro.sbercrm.com/estate/files/tmp/3910157/4218267/AgyEBkKUyywgjWY9a6QuL-o8PVLfzt5ege_D46aUXTkeyJ2IjoxLCJwIjoiZXN0YXRlLWZpbGUiLCJzIjoiMzkxMDE1Ny40MjE4MjY3LjAiLCJlIjoxNzkyNzU2ODAwfQ/planirovka_k-119_17-1-119.3.jpg"
       },
       {
         "area": "364,8",
         "price": "41,0 млн ₽",
         "status": "Свободно",
-        "tags": []
+        "tags": [],
+        "planImage": "https://macro.sbercrm.com/estate/files/tmp/3911001/3976922/hbAxKiFORQC0UmdF6ssbRptJzaMu-og3kkxsvj6goIkeyJ2IjoxLCJwIjoiZXN0YXRlLWZpbGUiLCJzIjoiMzkxMTAwMS4zOTc2OTIyLjAiLCJlIjoxNzkyNzU2ODAwfQ/planirovka_k-364_8-1-364.8.jpg"
       }
     ]
   },
@@ -675,19 +750,22 @@
         "area": "242,9",
         "price": "8,7 млн ₽",
         "status": "Свободно",
-        "tags": []
+        "tags": [],
+        "planImage": "https://macro.sbercrm.com/estate/files/tmp/3825423/4217949/icFl4UxvE8aIBGmr4WalvuGEx_gOgQ9EENLFIG955JceyJ2IjoxLCJwIjoiZXN0YXRlLWZpbGUiLCJzIjoiMzgyNTQyMy40MjE3OTQ5LjAiLCJlIjoxNzkyNzU2ODAwfQ/planirovka_k-242-242.9.jpg"
       },
       {
         "area": "93,4",
         "price": "По запросу",
         "status": "Бронь",
-        "tags": []
+        "tags": [],
+        "planImage": "https://macro.sbercrm.com/estate/files/tmp/3819210/3572358/k7DaL7bHwRwfHcvRScIYLMs5mF25OHk01SKhQtUc1_IeyJ2IjoxLCJwIjoiZXN0YXRlLWZpbGUiLCJzIjoiMzgxOTIxMC4zNTcyMzU4LjAiLCJlIjoxNzkyNzU2ODAwfQ/planirovka_k-93_4-1-93.4.jpg"
       },
       {
         "area": "93,4",
         "price": "По запросу",
         "status": "Бронь",
-        "tags": []
+        "tags": [],
+        "planImage": "https://macro.sbercrm.com/estate/files/tmp/3819210/3572358/k7DaL7bHwRwfHcvRScIYLMs5mF25OHk01SKhQtUc1_IeyJ2IjoxLCJwIjoiZXN0YXRlLWZpbGUiLCJzIjoiMzgxOTIxMC4zNTcyMzU4LjAiLCJlIjoxNzkyNzU2ODAwfQ/planirovka_k-93_4-1-93.4.jpg"
       }
     ]
   },
@@ -705,7 +783,8 @@
         "status": "Бронь",
         "tags": [
           "Первая линия"
-        ]
+        ],
+        "planImage": "https://macro.sbercrm.com/estate/files/tmp/3807580/4279499/d2mH1fpWUN2_l_fUHC7xCJ9LVIRdiuOAymNRpKGU8O8eyJ2IjoxLCJwIjoiZXN0YXRlLWZpbGUiLCJzIjoiMzgwNzU4MC40Mjc5NDk5LjAiLCJlIjoxNzkyNzU2ODAwfQ/planirovka_k-113_9-1-113.9.jpg"
       },
       {
         "area": "58,1",
@@ -713,7 +792,8 @@
         "status": "Бронь",
         "tags": [
           "Первая линия"
-        ]
+        ],
+        "planImage": "https://macro.sbercrm.com/estate/files/tmp/3807580/4279502/paAjKL1PfOcWL2cIgnbpxfDXt5-Qqploq_9fnb2A9l4eyJ2IjoxLCJwIjoiZXN0YXRlLWZpbGUiLCJzIjoiMzgwNzU4MC40Mjc5NTAyLjAiLCJlIjoxNzkyNzU2ODAwfQ/planirovka_k-58_1-3-58.1.jpg"
       },
       {
         "area": "114,9",
@@ -721,7 +801,8 @@
         "status": "Бронь",
         "tags": [
           "Первая линия"
-        ]
+        ],
+        "planImage": "https://macro.sbercrm.com/estate/files/tmp/3807580/4279500/PPcusVENeQFvR9CxEkgCCsxW2cpY_u-y7CMa5shKK48eyJ2IjoxLCJwIjoiZXN0YXRlLWZpbGUiLCJzIjoiMzgwNzU4MC40Mjc5NTAwLjAiLCJlIjoxNzkyNzU2ODAwfQ/planirovka_k-114_9-4-114.9.jpg"
       }
     ]
   }

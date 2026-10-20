@@ -137,12 +137,26 @@ export default function ZhkPage() {
               <article className="planc" key={idx}>
                 <div className="planc__ph">
                   <span className={`chip ${plan.status === 'Бронь' ? 'chip--dark' : 'chip--line'} planc__status`}>{plan.status}</span>
-                  <svg className="planc__icon" viewBox="0 0 40 40" fill="none">
-                    <rect x="4" y="4" width="32" height="32" rx="2" stroke="currentColor" strokeWidth="1.4" />
-                    <path d="M20 4v14M4 18h16M20 18v18" stroke="currentColor" strokeWidth="1.4" />
-                    <path d="M29 23v13M20 29h16" stroke="currentColor" strokeWidth="1.4" />
-                  </svg>
-                  <span className="planc__plabel">План помещения</span>
+                  {plan.planImage ? (
+                    <img
+                      src={plan.planImage}
+                      alt="План помещения"
+                      loading="lazy"
+                      style={{ width: '100%', height: '100%', objectFit: 'contain', padding: 12 }}
+                      onError={(e) => {
+                        e.currentTarget.style.display = 'none';
+                      }}
+                    />
+                  ) : (
+                    <>
+                      <svg className="planc__icon" viewBox="0 0 40 40" fill="none">
+                        <rect x="4" y="4" width="32" height="32" rx="2" stroke="currentColor" strokeWidth="1.4" />
+                        <path d="M20 4v14M4 18h16M20 18v18" stroke="currentColor" strokeWidth="1.4" />
+                        <path d="M29 23v13M20 29h16" stroke="currentColor" strokeWidth="1.4" />
+                      </svg>
+                      <span className="planc__plabel">План помещения</span>
+                    </>
+                  )}
                 </div>
                 <div className="planc__b">
                   <div className="planc__meta">

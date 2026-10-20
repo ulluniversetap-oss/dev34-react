@@ -36,6 +36,7 @@ export interface PlanCard {
   price: string;
   status: 'Свободно' | 'Бронь';
   tags: string[];
+  planImage?: string; // картинка планировки из MacroCRM — есть не у всех лотов
 }
 
 export interface ZhkComplex {
