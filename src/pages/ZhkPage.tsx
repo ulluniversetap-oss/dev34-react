@@ -3,6 +3,7 @@ import Header from '../components/Header';
 import Footer from '../components/Footer';
 import GallerySlider from '../components/GallerySlider';
 import InfraMap from '../components/InfraMap';
+import PlanImageZoom from '../components/PlanImageZoom';
 import { useLeadModal } from '../components/LeadModal';
 import { getZhkBySlug, ZHK } from '../data/zhk';
 
@@ -138,15 +139,7 @@ export default function ZhkPage() {
                 <div className="planc__ph">
                   <span className={`chip ${plan.status === 'Бронь' ? 'chip--dark' : 'chip--line'} planc__status`}>{plan.status}</span>
                   {plan.planImage ? (
-                    <img
-                      src={plan.planImage}
-                      alt="План помещения"
-                      loading="lazy"
-                      style={{ width: '100%', height: '100%', objectFit: 'contain', padding: 12 }}
-                      onError={(e) => {
-                        e.currentTarget.style.display = 'none';
-                      }}
-                    />
+                    <PlanImageZoom src={plan.planImage} alt="План помещения" />
                   ) : (
                     <>
                       <svg className="planc__icon" viewBox="0 0 40 40" fill="none">
