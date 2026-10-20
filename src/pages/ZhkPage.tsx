@@ -1,3 +1,4 @@
+import { useState } from 'react';
 import { Link, useParams } from 'react-router-dom';
 import Header from '../components/Header';
 import Footer from '../components/Footer';
@@ -17,6 +18,8 @@ export default function ZhkPage() {
   const { slug } = useParams<{ slug: string }>();
   const zhk = slug ? getZhkBySlug(slug) : undefined;
   const { open: openLead } = useLeadModal();
+  const PLANS_PAGE_SIZE = 8;
+  const [visiblePlans, setVisiblePlans] = useState(PLANS_PAGE_SIZE);
 
   if (!zhk) {
     return (
@@ -134,7 +137,7 @@ export default function ZhkPage() {
             </div>
           </div>
           <div className="plansgrid">
-            {zhk.plans.map((plan, idx) => (
+            {zhk.plans.slice(0, visiblePlans).map((plan, idx) => (
               <article className="planc" key={idx}>
                 <div className="planc__ph">
                   <span className={`chip ${plan.status === 'Бронь' ? 'chip--dark' : 'chip--line'} planc__status`}>{plan.status}</span>
@@ -175,9 +178,15 @@ export default function ZhkPage() {
             ))}
           </div>
           <div className="plans__more">
-            <a href="/#catalog" className="btn btn--outline">
-              Смотреть ещё помещения {arrowIcon}
-            </a>
+            {visiblePlans < zhk.plans.length ? (
+              <button type="button" className="btn btn--outline" onClick={() => setVisiblePlans((n) => n + PLANS_PAGE_SIZE)}>
+                Показать ещё планировки {arrowIcon}
+              </button>
+            ) : (
+              <a href="/#catalog" className="btn btn--outline">
+                Смотреть ещё помещения {arrowIcon}
+              </a>
+            )}
           </div>
         </div>
       </section>
